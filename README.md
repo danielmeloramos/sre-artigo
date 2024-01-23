@@ -46,6 +46,10 @@ This is a simple example project demonstrating how to use Golang, Prometheus, an
     - Prometheus is accessible at `http://localhost:9090`;
     - Grafana is accessible at `http://localhost:3000` (default credentials: `admin/admin`).
 
+7. Post Blog
+
+https://danielmeloramos.com.br/site-reliability-engineering/
+
 Feel free to customize the Golang application and the Prometheus/Grafana configurations based on your needs.
 
 ```bash
